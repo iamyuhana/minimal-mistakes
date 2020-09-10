@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hana Yu"
+  avatar           : "https://avatars2.githubusercontent.com/u/23078202?s=400&amp;u=183867c29e1a0f6b836144917e77fadc4b722e83&amp;v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Slow but steady wins the race."
   location         : "South Korea"
   email            :
