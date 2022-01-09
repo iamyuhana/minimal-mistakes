@@ -1,3 +1,11 @@
+---
+title: "Windows 10에서 우분투 설치하기"
+categories:
+  - WSL2
+  - Ubuntu Installation
+last_modified_at: 2022-01-10 00:39:00 +0900
+toc: true
+---
 # Windows 10에서 우분투 설치하기
 WSL2에서 우분투를 설치하는 방법을 시도하였으나 우분투 설치시 에러가 발생하여서 해결하지 못했던 부분을 드디어 해결함!
 
